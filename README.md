@@ -1,3 +1,3 @@
 # blog
 
-[Project 1](./Projects/ProjectA)
+[Project 1](https://amrable.github.io/blog/Projects)
