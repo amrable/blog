@@ -1,4 +1,0 @@
-# Project Title
-
-Project Summary
-
